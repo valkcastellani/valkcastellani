@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valkcastellani&show_icons=true&locale=pt-BR" alt="valkcastellani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valkcastellani&" alt="valkcastellani" /></p>
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valkcastellani" alt="valkcastellani" /></a> </p>
