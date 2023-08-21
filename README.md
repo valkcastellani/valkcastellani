@@ -18,12 +18,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valkcastellani" alt="valkcastellani" /></a> </p>
 
 ### 🌏 **CONNECT WITH ME**
-<a href="https://www.instagram.com/valkcastellani"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="[https://www.facebook.com/profile.php?=100087370156118](https://www.facebook.com/valk.castellani/)"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")][https://www.instagram.com/valkcastellani]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white "Facebook")][[https://www.facebook.com/profile.php?=100087370156118](https://www.facebook.com/valk.castellani/)]
 
 ## 🕸️ **WEB DEV**
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
