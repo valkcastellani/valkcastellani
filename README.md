@@ -20,6 +20,7 @@
 ### 🌏 **CONNECT WITH ME**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")][vinst]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white "Facebook")][vface]
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][vmedi]
 
 ## 🕸️ **WEB DEV**
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
@@ -100,6 +101,7 @@
 [vface]: https://www.facebook.com/valk.castellani/
 [vinst]: https://www.instagram.com/valkcastellani 
 [repo]: https://github.com/valkcastellani?tab=repositories
+[vmedi]: https://medium.com/@valkcastellani
 
 <hr />
 
