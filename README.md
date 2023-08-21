@@ -32,10 +32,10 @@
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
 
 ## ⚙️ **BACKEND DEV**
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 [![Java](https://img.shields.io/badge/java-404D59.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c%23&badgeColor=010101 "C#")][repo]
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 [![Java](https://img.shields.io/badge/java-404D59.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
